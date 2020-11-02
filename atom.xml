@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ixinshang.github.io</id>
     <title>ixinshang</title>
-    <updated>2020-10-31T10:32:22.117Z</updated>
+    <updated>2020-11-02T03:58:19.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ixinshang.github.io"/>
     <link rel="self" href="https://ixinshang.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://ixinshang.github.io/images/avatar.png</logo>
     <icon>https://ixinshang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ixinshang</rights>
+    <entry>
+        <title type="html"><![CDATA[HCIP-R&S之路之H12-223 ]]></title>
+        <id>https://ixinshang.github.io/post/hcip-rands-zhi-lu-zhi-h12-223/</id>
+        <link href="https://ixinshang.github.io/post/hcip-rands-zhi-lu-zhi-h12-223/">
+        </link>
+        <updated>2020-11-02T03:55:24.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近比较烦，比较烦，比较烦]]></title>
         <id>https://ixinshang.github.io/post/zui-jin-bi-jiao-fan-bi-jiao-fan-bi-jiao-fan/</id>
