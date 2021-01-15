@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ixinshang.github.io</id>
     <title>ixinshang</title>
-    <updated>2020-12-20T09:03:47.526Z</updated>
+    <updated>2021-01-15T07:34:17.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ixinshang.github.io"/>
     <link rel="self" href="https://ixinshang.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://ixinshang.github.io/images/avatar.png</logo>
     <icon>https://ixinshang.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, ixinshang</rights>
+    <rights>All rights reserved 2021, ixinshang</rights>
+    <entry>
+        <title type="html"><![CDATA[准备向运维开发方向发展，开始学Python]]></title>
+        <id>https://ixinshang.github.io/post/zhun-bei-xiang-yun-wei-kai-fa-fang-xiang-fa-zhan-kai-shi-xue-python/</id>
+        <link href="https://ixinshang.github.io/post/zhun-bei-xiang-yun-wei-kai-fa-fang-xiang-fa-zhan-kai-shi-xue-python/">
+        </link>
+        <updated>2021-01-15T07:31:50.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通过了HCIP-R&S认证]]></title>
         <id>https://ixinshang.github.io/post/tong-guo-liao-hcip-rands-ren-zheng/</id>
